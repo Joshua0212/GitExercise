@@ -9,5 +9,5 @@ M02:
 M03:
 M04:
 M05:
-M06:JOSHUA F. ESTEPA
+M06: Joshua Estepa
 M07:
